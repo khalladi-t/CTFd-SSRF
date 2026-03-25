@@ -31,10 +31,8 @@ CTF OperationsCTFd setup and configuration
 ## Challenges
 1. Employee Directory Injection
 2. Internal New Fletcher
+<img width="1190" height="811" alt="image" src="https://github.com/user-attachments/assets/deef9c7e-3ee1-44b4-b24f-e0b6c2353a54" />
 
-<img width="522" height="248" alt="image" src="https://github.com/user-attachments/assets/27d6eef7-faf3-4d1f-80c9-eb4b02a78a05" />
-<img width="759" height="264" alt="image" src="https://github.com/user-attachments/assets/ee174a99-ca4c-45da-99a4-c1773edbef7c" />
-<img width="1190" height="811" alt="image" src="https://github.com/user-attachments/assets/0707b25f-8627-477d-b5b4-56026d26dafd" />
 
 # DISCLAIMER
 
