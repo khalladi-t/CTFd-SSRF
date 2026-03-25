@@ -42,3 +42,5 @@ This lab is intended only for local, educational usE. Vulnerable services are de
 * https://www.docker.com/products/docker-desktop/
 * https://learn.microsoft.com/en-us/windows/wsl/install
 
+<img width="1520" height="588" alt="image" src="https://github.com/user-attachments/assets/c640cf4c-dafb-42ed-b414-bc1904de41c7" />
+
